@@ -1,1 +1,1 @@
-first fastapi project.
+first fastapi project
